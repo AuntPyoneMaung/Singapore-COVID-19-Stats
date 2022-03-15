@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-deployment-apm/static/css/main.d2ab791f.chunk.css",
-    "main.js": "/my-deployment-apm/static/js/main.100e3db0.chunk.js",
-    "main.js.map": "/my-deployment-apm/static/js/main.100e3db0.chunk.js.map",
-    "runtime-main.js": "/my-deployment-apm/static/js/runtime-main.ed8c0aa3.js",
-    "runtime-main.js.map": "/my-deployment-apm/static/js/runtime-main.ed8c0aa3.js.map",
-    "static/js/2.6df3a946.chunk.js": "/my-deployment-apm/static/js/2.6df3a946.chunk.js",
-    "static/js/2.6df3a946.chunk.js.map": "/my-deployment-apm/static/js/2.6df3a946.chunk.js.map",
-    "static/js/3.6d95c3c6.chunk.js": "/my-deployment-apm/static/js/3.6d95c3c6.chunk.js",
-    "static/js/3.6d95c3c6.chunk.js.map": "/my-deployment-apm/static/js/3.6d95c3c6.chunk.js.map",
-    "index.html": "/my-deployment-apm/index.html",
-    "static/css/main.d2ab791f.chunk.css.map": "/my-deployment-apm/static/css/main.d2ab791f.chunk.css.map",
-    "static/js/2.6df3a946.chunk.js.LICENSE.txt": "/my-deployment-apm/static/js/2.6df3a946.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-deployment-apm/static/media/logo.6ce24c58.svg"
+    "main.css": "/singapore-covid-stats/static/css/main.fa4d973b.chunk.css",
+    "main.js": "/singapore-covid-stats/static/js/main.2aff1144.chunk.js",
+    "main.js.map": "/singapore-covid-stats/static/js/main.2aff1144.chunk.js.map",
+    "runtime-main.js": "/singapore-covid-stats/static/js/runtime-main.f113cf0f.js",
+    "runtime-main.js.map": "/singapore-covid-stats/static/js/runtime-main.f113cf0f.js.map",
+    "static/js/2.2e8f3497.chunk.js": "/singapore-covid-stats/static/js/2.2e8f3497.chunk.js",
+    "static/js/2.2e8f3497.chunk.js.map": "/singapore-covid-stats/static/js/2.2e8f3497.chunk.js.map",
+    "static/js/3.6d95c3c6.chunk.js": "/singapore-covid-stats/static/js/3.6d95c3c6.chunk.js",
+    "static/js/3.6d95c3c6.chunk.js.map": "/singapore-covid-stats/static/js/3.6d95c3c6.chunk.js.map",
+    "index.html": "/singapore-covid-stats/index.html",
+    "static/css/main.fa4d973b.chunk.css.map": "/singapore-covid-stats/static/css/main.fa4d973b.chunk.css.map",
+    "static/js/2.2e8f3497.chunk.js.LICENSE.txt": "/singapore-covid-stats/static/js/2.2e8f3497.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/singapore-covid-stats/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed8c0aa3.js",
-    "static/js/2.6df3a946.chunk.js",
-    "static/css/main.d2ab791f.chunk.css",
-    "static/js/main.100e3db0.chunk.js"
+    "static/js/runtime-main.f113cf0f.js",
+    "static/js/2.2e8f3497.chunk.js",
+    "static/css/main.fa4d973b.chunk.css",
+    "static/js/main.2aff1144.chunk.js"
   ]
 }
